@@ -13,3 +13,13 @@
 ```pip install groq gradio requests flask```
 
 4. Let's create a file called ```API.py```
+
+5.Inside the file
+
+```from flask import Flask, request, jsonify```
+
+```import json```
+
+6. Now we are initializing the flask application 
+
+```app = Flask(__name__)```
