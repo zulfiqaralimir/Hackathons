@@ -4,3 +4,6 @@
 [Llama 3 Hackathon Link](https://lablab.ai/event/llama-3-ai-hackathon)
 
 [Team Link:Llma Riders](https://lablab.ai/event/llama-3-ai-hackathon/llama-riders)
+
+
+[Groq Function Calling Llama 3: How to Integrate Custom API in AI App?](https://www.youtube.com/watch?v=7OAmeq-vwNc&t=10s)
