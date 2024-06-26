@@ -23,3 +23,7 @@
 6. Now we are initializing the flask application 
 
 ```app = Flask(__name__)```
+
+7. next we're going to create a function called get game score
+
+```def get_game_score(team_name):```
