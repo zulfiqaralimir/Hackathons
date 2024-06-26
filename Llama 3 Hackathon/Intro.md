@@ -7,3 +7,5 @@
 
 
 [Groq Function Calling Llama 3: How to Integrate Custom API in AI App?](https://www.youtube.com/watch?v=7OAmeq-vwNc&t=10s)
+
+[How to use Llama 3(70B) API for FREE (beats GPT4 for business!)](https://www.youtube.com/watch?v=VmNhDUKMHd4)
