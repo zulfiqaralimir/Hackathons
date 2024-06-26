@@ -7,3 +7,6 @@
 2. Now we are going to activate Groq virtual environment
    
 ```conda activate groq```
+3. We are going to create API using flask (Flask is a python package used to create microservice in our case API)
+
+```pip install groq gradio requests flask```
