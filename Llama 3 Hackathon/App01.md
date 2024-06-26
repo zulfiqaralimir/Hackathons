@@ -27,3 +27,7 @@
 7. next we're going to create a function called get game score
 
 ```def get_game_score(team_name):```
+
+
+
+![image](https://github.com/zulfiqaralimir/Hackathons/assets/68346772/74722067-8573-4aae-aa80-80aaf2773835)
